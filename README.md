@@ -8,4 +8,19 @@ My apologies for any misread names or words.
 ## To install:
 If you just clone this repo you can run fortune with the command 'fortune math_quotes' in this directory. If you want it to work globally you have to put it in fortune's directory on your system (for me it's /usr/share/fortune/).
 
-
+```
+~ 
+➜ fortune math_quotes | cowsay
+ _________________________________________ 
+/ I can't wait to get to rings, they're   \
+| so fun. Well, we called them toruses in |
+| Topology, but same thing                |
+|                                         |
+\ -RD                                     /
+ ----------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
